@@ -1,1 +1,1 @@
-Please visit [https://xemu.app](https://xemu.app) for more information.
+i forked this repo to port it to android.
